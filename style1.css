@@ -1,0 +1,50 @@
+body {margin: 0;
+}
+h1 {margin-top: 0;}
+
+.top-container {text-align: center; background-color: #E4F9F5;font-family: 'Sacramento', cursive;font-size: 50px;}
+
+h3  {text-align: center; background-color: #9BA3EB;font-size: 50px;margin-top: 0px; color: #EBE645;}
+
+
+.bottom-cloud {position: absolute;left: 400px;
+}
+
+.top-cloud {position: absolute;
+right:300px;
+top: 120px;}
+
+.effects {margin-top: 0px; background-color: #F7EDDB; padding: 0px; font-size: 20px;}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #B09B71;
+    border-width: 5px;
+    width: 5%;}
+
+h4 {color: #9A0680;}
+
+
+.kaushal {height: 400px;
+width: 400px;border-radius: 50%;}
+
+.rohit {height: 400px;
+width: 400px;border-radius: 50%;}
+
+.shounak {height: 400px;
+width: 400px;border-radius: 50%;}    
+
+.vishal {height: 400px;
+width: 400px;border-radius: 50%;}
+    
+.adarsh {height: 400px;
+width: 400px;border-radius: 50%;}
+    
+.chaitanya {height: 400px;
+width: 400px;border-radius: 50%;}
+
+.neeraj {height: 400px;
+width: 400px;border-radius: 50%;}
+
+    
